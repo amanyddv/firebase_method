@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "temp-1a793": {
+      "hosting": {
+        "firestore": [
+          "temp-1a793"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "temp-1a793"
+  }
+}
